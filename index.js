@@ -1,4 +1,4 @@
-const {obtenerPromedio, argv} = require('./datos.js')
+const {obtenerPromedio, argv} = require('./datos')
 
 console.log(argv);
 if(argv._[0]=='promedio'){
